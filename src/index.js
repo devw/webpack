@@ -1,4 +1,6 @@
 import _ from "lodash";
+module.exports = true;
+import test from "./test.js";
 
 function component() {
     const element = document.createElement("div");
