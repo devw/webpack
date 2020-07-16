@@ -1,5 +1,5 @@
 import _ from "lodash";
-// import test from "./test.js";
+import test from "../tests/algo.test.js";
 
 function component() {
     const element = document.createElement("div");

@@ -9,6 +9,7 @@
     "build": "webpack --mode production"
   },
   "dependencies": {
+    "html-webpack-plugin": "^4.3.0",
     "lodash": "^4.17.19",
     "mocha": "^8.0.1",
     "mocha-loader": "^5.1.0",
